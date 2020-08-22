@@ -1,0 +1,72 @@
+{
+  "50": {
+    "Hex": "E1F5FE",
+    "HexWithHash": "#E1F5FE",
+    "Rgb": "rgb(225,245,254)"
+  },
+  "100": {
+    "Hex": "B3E5FC",
+    "HexWithHash": "#B3E5FC",
+    "Rgb": "rgb(179,229,252)"
+  },
+  "200": {
+    "Hex": "81D4FA",
+    "HexWithHash": "#81D4FA",
+    "Rgb": "rgb(129,212,250)"
+  },
+  "300": {
+    "Hex": "4FC3F7",
+    "HexWithHash": "#4FC3F7",
+    "Rgb": "rgb(79,195,247)"
+  },
+  "400": {
+    "Hex": "29B6F6",
+    "HexWithHash": "#29B6F6",
+    "Rgb": "rgb(41,182,246)"
+  },
+  "500": {
+    "Hex": "03A9F4",
+    "HexWithHash": "#03A9F4",
+    "Rgb": "rgb(3,169,244)"
+  },
+  "600": {
+    "Hex": "039BE5",
+    "HexWithHash": "#039BE5",
+    "Rgb": "rgb(3,155,229)"
+  },
+  "700": {
+    "Hex": "0288D1",
+    "HexWithHash": "#0288D1",
+    "Rgb": "rgb(2,136,209)"
+  },
+  "800": {
+    "Hex": "0277BD",
+    "HexWithHash": "#0277BD",
+    "Rgb": "rgb(2,119,189)"
+  },
+  "900": {
+    "Hex": "01579B",
+    "HexWithHash": "#01579B",
+    "Rgb": "rgb(1,87,155)"
+  },
+  "A100": {
+    "Hex": "80D8FF",
+    "HexWithHash": "#80D8FF",
+    "Rgb": "rgb(128,216,255)"
+  },
+  "A200": {
+    "Hex": "40C4FF",
+    "HexWithHash": "#40C4FF",
+    "Rgb": "rgb(64,196,255)"
+  },
+  "A400": {
+    "Hex": "00B0FF",
+    "HexWithHash": "#00B0FF",
+    "Rgb": "rgb(0,176,255)"
+  },
+  "A700": {
+    "Hex": "0091EA",
+    "HexWithHash": "#0091EA",
+    "Rgb": "rgb(0,145,234)"
+  }
+}

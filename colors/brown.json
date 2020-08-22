@@ -1,0 +1,52 @@
+{
+  "50": {
+    "Hex": "EFEBE9",
+    "HexWithHash": "#EFEBE9",
+    "Rgb": "rgb(239,235,233)"
+  },
+  "100": {
+    "Hex": "D7CCC8",
+    "HexWithHash": "#D7CCC8",
+    "Rgb": "rgb(215,204,200)"
+  },
+  "200": {
+    "Hex": "BCAAA4",
+    "HexWithHash": "#BCAAA4",
+    "Rgb": "rgb(188,170,164)"
+  },
+  "300": {
+    "Hex": "A1887F",
+    "HexWithHash": "#A1887F",
+    "Rgb": "rgb(161,136,127)"
+  },
+  "400": {
+    "Hex": "8D6E63",
+    "HexWithHash": "#8D6E63",
+    "Rgb": "rgb(141,110,99)"
+  },
+  "500": {
+    "Hex": "795548",
+    "HexWithHash": "#795548",
+    "Rgb": "rgb(121,85,72)"
+  },
+  "600": {
+    "Hex": "6D4C41",
+    "HexWithHash": "#6D4C41",
+    "Rgb": "rgb(109,76,65)"
+  },
+  "700": {
+    "Hex": "5D4037",
+    "HexWithHash": "#5D4037",
+    "Rgb": "rgb(93,64,55)"
+  },
+  "800": {
+    "Hex": "4E342E",
+    "HexWithHash": "#4E342E",
+    "Rgb": "rgb(78,52,46)"
+  },
+  "900": {
+    "Hex": "3E2723",
+    "HexWithHash": "#3E2723",
+    "Rgb": "rgb(62,39,35)"
+  }
+}

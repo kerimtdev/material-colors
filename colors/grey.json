@@ -1,0 +1,52 @@
+{
+  "50": {
+    "Hex": "FAFAFA",
+    "HexWithHash": "#FAFAFA",
+    "Rgb": "rgb(250,250,250)"
+  },
+  "100": {
+    "Hex": "F5F5F5",
+    "HexWithHash": "#F5F5F5",
+    "Rgb": "rgb(245,245,245)"
+  },
+  "200": {
+    "Hex": "EEEEEE",
+    "HexWithHash": "#EEEEEE",
+    "Rgb": "rgb(238,238,238)"
+  },
+  "300": {
+    "Hex": "E0E0E0",
+    "HexWithHash": "#E0E0E0",
+    "Rgb": "rgb(224,224,224)"
+  },
+  "400": {
+    "Hex": "BDBDBD",
+    "HexWithHash": "#BDBDBD",
+    "Rgb": "rgb(189,189,189)"
+  },
+  "500": {
+    "Hex": "9E9E9E",
+    "HexWithHash": "#9E9E9E",
+    "Rgb": "rgb(158,158,158)"
+  },
+  "600": {
+    "Hex": "757575",
+    "HexWithHash": "#757575",
+    "Rgb": "rgb(117,117,117)"
+  },
+  "700": {
+    "Hex": "616161",
+    "HexWithHash": "#616161",
+    "Rgb": "rgb(97,97,97)"
+  },
+  "800": {
+    "Hex": "424242",
+    "HexWithHash": "#424242",
+    "Rgb": "rgb(66,66,66)"
+  },
+  "900": {
+    "Hex": "212121",
+    "HexWithHash": "#212121",
+    "Rgb": "rgb(33,33,33)"
+  }
+}
